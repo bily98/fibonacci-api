@@ -28,4 +28,4 @@ This method was added as an extension method to the struct **int** to make the c
 
 This code has a problem, the number of operations to compute F(n) is proportional to the final numerical answer, which grows exponentially, to solve this we can change the algorithm to **Fast Doubling**.
 
-[![Fast Fibonacci Algorithms]] (https://www.nayuki.io/page/fast-fibonacci-algorithms)
+[Fast Fibonacci Algorithms](https://www.nayuki.io/page/fast-fibonacci-algorithms)
